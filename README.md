@@ -37,7 +37,7 @@ FundMe is a decentralized crowdfunding contract that allows:
 1. **Clone the repository:**
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/web11-ateves/foundry-fund-me
 cd foundry-fund-me-cu
 ```
 
